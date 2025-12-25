@@ -72,9 +72,7 @@ We may update this Privacy Policy occasionally. Significant changes will be comm
 
 ## Contact Us
 If you have any questions, reach us at:  
-- **Email:** [Email Address]  
-- **Support:** [Support Page or Website Link]
-
+- **Email:**   legal@epictech38.com
 ---
 
 **Notes for Google Play Review:**  
